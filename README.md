@@ -25,8 +25,6 @@
    lark-cli auth login --domain lark     # 国际版 larksuite.com
    ```
 
-> ⚠️ 本 skill 不绑定任何公司的 appId/token;谁用,谁登录自己的应用,各人动各人的数据。
-
 ## 安装
 
 ```bash
