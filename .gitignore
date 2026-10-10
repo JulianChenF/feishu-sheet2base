@@ -1,0 +1,16 @@
+# 凭据与本地文件，绝不提交
+*.token
+*.key
+.pem
+*.zip
+hclaw.json
+
+# 系统/编辑器
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# 本地临时
+/tmp/
+*.log
